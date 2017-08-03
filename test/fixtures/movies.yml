@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  released: false
+  expected: false
+  date_expected: 2017-08-02
+  url: MyString
+
+two:
+  title: MyString
+  description: MyText
+  released: false
+  expected: false
+  date_expected: 2017-08-02
+  url: MyString
